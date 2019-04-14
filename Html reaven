@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <link rel="icon"  href="https://lh3.googleusercontent.com/SvZ8n_kpZjhFuAjGwKX6qqDPC201IlTizymPBKA_mZRZGOQ0I4JRADuINWmIv5aBEcTrx9cx5xRC2teAYa3i57HTzSkuizasS8kQRQ=w50-h34-rw-no">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Holló Mobil</title>
+</head>
+<body id="basic">
+  <audio style="display:none;" controls="controls" autoplay loop>
+<source src="https://docs.google.com/uc?export=open&amp;id=1nprT0sG9aDb6UlWqeebGTUJuJVWOhIIA"></source>
+</audio>
+   <body oncontextmenu="return false;">     
+     <div id="message"><img id="hello" src="https://lh3.googleusercontent.com/8tCSJkyXKtY9ByMccgIelSpqIVw-tmc3pzH4-O6RIeVQ-gUCPapel5S2Ncbivi9PdWgavbeoxyu47IUS_gxqNvxMJX9i2fe6eyAJ=s2020-rw-no">
+       <h1 id="pick">Hello! This isn't a regular web-<br>page. Here You can touch every<br>element what 'U see. Those will<br>You throw for another page ☺</h1>
+       </div>
+  <script>
+window.alert('Üdvözöllek a Mobil változatban');
+</script>
+     
+      <div id="mobil"><a id="mobi" href="https://output.jsbin.com/bipesid">Számítógépes változatot ide!</a></div>
+       
+     <script  id="_wau2d7">var _wau = _wau || []; _wau.push(["colored", "6p6rn2c8nx", "2d7", "ffc20e000000"]);</script><script async src="//waust.at/co.js"></script>
+     
+     <input id="tixt" type="search" placeholder="64bit security entracy">
+     
+     <div id="boxx">
+     <div id="enter">Belépés</div>
+       <div id="error">Hiba</div>
+     </div>
+     
+     <button style="margin-top:5%;" id="eml" type="button" onclick="document.getElementById('rem').style.display='block'
+                                             document.getElementById('eml').style.display='none'">Egy közös emlék</button>
+     
+     <div id="rem">
+       <img id="marg" class="remp" src="https://sun6-5.userapi.com/c830309/v830309799/19fdb7/9UJ2yByAKOE.jpg">
+       <img id="boo" class="remp" src="https://sun6-1.userapi.com/c830309/v830309799/19fdae/G85frC3G2H0.jpg">
+       <img id="ett" class="remp" src="https://sun6-3.userapi.com/c830309/v830309799/19fdce/_SrFJS-GHNs.jpg">
+       <img id="fan" class="remp" src="https://sun6-1.userapi.com/c830309/v830309799/19fdc7/0TKku1PcZnc.jpg">
+       <img id="col" class="remp" src="https://sun6-3.userapi.com/c830309/v830309799/19fdc0/lXhPOuqfZTs.jpg">
+       <img id="toll" class="remp" src="https://sun6-3.userapi.com/c830309/v830309799/19fde8/iu855zsjCV4.jpg">
+       <img id="hid" class="remp" src="https://sun6-6.userapi.com/c830309/v830309799/19fda7/Er7AYGJVYLw.jpg">
+       <img id="tuz" class="remp" src="https://sun6-2.userapi.com/c830309/v830309799/19fdde/IY_YF33TYyo.jpg">
+       <img id="met" class="remp" src="https://sun6-1.userapi.com/c830309/v830309799/19fdd5/OulInf_nnbY.jpg">
+     </div>
+         
+     <button style="background:#ff8d00; color:yellow; margin-top:3%; width:90%; margin-left:6%;" type="button" onclick="document.getElementById('basic').style.background='#ff8d00'">364px nkk</button>
+     
+     <button style="background:#00ff99; margin-top:3%; margin-left:6%;" type="button" onclick="document.getElementById('basic').style.background='#00ff99'">Mentazöld</button>
+     
+  <button type="button" style="background:#00ffff;" onclick="document.getElementById('basic').style.background='#00ffff'">Aqua</button>
+     
+  <button style="background:#66ff33;" type="button" onclick="document.getElementById('basic').style.background='#66ff33'">Trolltakony</button>
+     
+  <button style="background:#ff0066; color:white;" type="button" onclick="document.getElementById('basic').style.background='#ff0066'">Korallpiros</button>
+     
+     <button style="background:#e6ffe6; color:black; margin-left:6%; margin-top:3%; width:23%;" type="button" onclick="document.getElementById('basic').style.background='#e6ffe6'">Menta</button>
+     
+     <button style="background:#e6ffff;width:14%;" type="button" onclick="document.getElementById('basic').style.background='#e6ffff'">Kék</button>
+     
+     <button style="background:#006600;width:24%;" type="button" onclick="document.getElementById('basic').style.background='#006600'">Zöld</button>
+     
+     <button style="background:#a36da3; color:white;width:23%;" type="button" onclick="document.getElementById('basic').style.background='#a36da3'">Rózsaszín</button>
+     
+     
+     <button style="margin-left:6%; margin-top:3%; width:50%; background:red;" type="button" onclick="heart()">Float heart</button>
+<script>
+function heart() 
+  {document.body.style.backgroundImage= "url('https://pp.userapi.com/c845323/v845323821/d2662/Ok0fUZRMg28.jpg')";
+}
+</script>
+     
+     <button style=" margin-top:3%; width:35%; background:#0013ff; color:white;" type="button" onclick="spider()">Spider</button>
+<script>
+function spider() 
+  {document.body.style.backgroundImage= "url('https://pp.userapi.com/c845323/v845323821/d2658/28ETw6gO0mk.jpg')";
+}
+</script>
+     
+     <button style="margin-left:6%; margin-top:3%; width:35%;color:yellow; background:#18cda9;" type="button" onclick="mumus()">Mumus</button>
+<script>
+function mumus() 
+  {document.body.style.backgroundImage= "url('https://pp.userapi.com/c845323/v845323821/d264f/Sa9KXM5F3MI.jpg')";
+}
+</script>
+     
+     <button style="margin-top:3%; width:50%; background:#0dd940;" type="button" onclick="roma()">Róma</button>
+<script>
+function roma() 
+  {document.body.style.backgroundImage= "url('https://pp.userapi.com/c845323/v845323821/d266c/98dhiDZ7H0o.jpg')";
+}
+</script>
+     
+     <button style="margin-left:6%; margin-top:3%; width:90%; background:white; color:red;" type="button" onclick="magyar()">Magyar vagyok</button>
+<script>
+function magyar() 
+  {document.body.style.backgroundImage= "url('https://pp.userapi.com/c845323/v845323821/d2645/aqNwXeuNhyQ.jpg')";
+}
+</script>
+     
+     
+     <div id="info">
+     <div id="hollokeret">   
+     <img id="hollo" src="https://lh3.googleusercontent.com/VFa39pjoRrMcszGV-xaH9td7UKIEi4UaA07tJ4N_9Qn8Ib-84koqQhY32HRX9ocB7Teg9plyyMclGiYRKsiFlzql-zQwRd2QeaiA=w708-h366-rw-no">  
+       </div>
+     <a title="a programozó oldalára" href="https://www.facebook.com/MolnarIstvan1995Augusztus22UngvarTestepito">
+       <img id="hollo-kep" src="https://lh3.googleusercontent.com/GRRrKiyXZLhuHjPOSYtlYCJHgSVM7KDKLpCUJZ67yIlV8bUHFLYRj8i4f1Utc9zamoTn3_FI1Fx3a5Wu1s8UU_NjBe0CG-WaER1Vjg=w1920-h1080-rw-no">
+     </a>
+  <h2 style="margin-top:3%" class="intro">
+    Réges-régen, mikor még az emberek csak épp a fejlődés korának küszöbére léptek, a Hollók szolgálatát vették igénybe, hogy ezek a lélektelen madarak hordják szét a fontos híreket a birodalomban...
+   </h2>
+<h2 style="margin-top:3%" class="intro">
+  Eme lehetőség ma már feledésbe meredt, de a Holló csökevényes lelkében még most is él a múlt szokása, s ki rászolgál, azzal megosztja a frissen beszerzett híreit, vagy szívesen meséli el neki a régmúltban megtörtént legendákat...  
+ </h2>
+         <a class="link"   href="https://www.facebook.com/messages/t/MolnarIstvan1995Augusztus22UngvarTestepito" title="Írj nekem üzenetet!"><h1 class="question">Kérdésed van¿</h1></a>
+     <div id="disk">
+       <a target=blank;  href="https://drive.google.com/open?id=1gcX5wrMYF5V4wfwnLt7ijWg4FXOS5kVS">
+       <img class="silver" title="Silver" src="https://lh3.googleusercontent.com/-tdIaPEW8KxQq11n-XZ0ctFEp2HVvwfa0J99VZqt9KveoOiquQDx6FqROYt5M5tk7QmXbc9HD0dRW0vorMyaTv4VC6iNnm34vjebFw=s1060-rw-no">
+         </a>
+       <a target=blank;  href="https://drive.google.com/open?id=12gvzrTM3sJIoFx5LbMSCfD3Xz5HF3Wge">
+       <img class="gold" title="Gold" src="https://lh3.googleusercontent.com/zgB4oTCwyqkTVAt_d5b1QGf6P0qJ0dQQT47wqNCLHSJH4GR_M8SDaxHKkaMHETIRJEz48scRsLozFbYR2C5fxtZJ46r9o9IDrps9Jg=s1060-rw-no">
+         </a>
+       <a target=blank; href="https://www.mixcloud.com/moln%C3%A1r-rap-istv%C3%A1n/run-mix-by-146-powerful-minutes/">
+       <img class="bronze" title="Bronze" src="https://lh3.googleusercontent.com/HFIaHXF-sZxO7i4IjkLb1mllrBtTucb4A9wibEfiH3YrFImofbi89BytyEf8HR4p7PueZT2S5uKo13x94AW1Xd03BDisY79vL6a_UQ=s1060-rw-no">
+       </a>
+     </div>
+    <div id="halftrans">
+  <a  href="https://output.jsbin.com/dilokar"> 
+<img class="overload" src="https://pp.userapi.com/c844416/v844416756/3c85c/c9s_l1vWRTk.jpg" title="Overload"></a>  
+  <a  href="https://output.jsbin.com/hibejik"> 
+<img class="eminem" src="https://pp.userapi.com/c844416/v844416756/3c852/wJRStDj4Dzs.jpg"  title="Eminem"></a>     
+  <a  href="https://output.jsbin.com/rimizo"> 
+<img class="logic" src="https://pp.userapi.com/c844416/v844416756/3c840/rEHWBvfeyt8.jpg" title="Pro Logic II"></a>
+    <a  href="https://output.jsbin.com/vosivab"> 
+<img class="cry" src="https://pp.userapi.com/c844416/v844416756/3c82c/kevgZJcye1g.jpg" title="Cry"></a> 
+    <a  href="https://output.jsbin.com/yivuzak"> 
+<img class="game" src="https://pp.userapi.com/c844416/v844416756/3c836/5Ae9n6jrUbg.jpg" title="Games"></a>       
+      <a id="access" href="https://output.jsbin.com/yerenay">
+        Vicceld meg egy barátod (= 
+        <div id="load-access">
+          <div id="liner"></div>
+        </div>
+      </a>      
+    <a class="linknemesis" title="Nemesis" href="https://output.jsbin.com/bekayaq">
+     <img id="mol" src="https://lh3.googleusercontent.com/I2uJ3l_x4ti-N7IuwZJ1LSJdojkRvCuBZBON9DqCvEoum6SKRJgKnyYjtino9lW5uUaMkIeYh11deg=s2020-rw-no"> </a>
+      
+      <a href="https://output.jsbin.com/hutoyix">
+        <div id="mc-div">
+        <img id="mine-pic" src="https://lh3.googleusercontent.com/4n_DwQ8Fvy9VG_GSlGM2f1zdP-YjGXRTbrfBxBp-NdPyLhoIS9qoxkG3w6TQgNMrl8fV_LLynFQO9q-FEbhFI-m3-lrWaRjFbUKM=w1920-h700-rw-no">
+          </div>
+      </a>
+        
+  </div>
+     <h1 class="secret">
+       <a id="titok" title="titok" target="blank" href="https://drive.google.com/open?id=1_09veCTRw4UNY7mqoUm_8gs1QDdZLbp1">Találd meg a rejtett gombokat ☺</a></h1>
+    <h3 class="copy"><a target="blank" title="titok" href="https://drive.google.com/open?id=1EPhto6UoawX7jChgYuGor9omcwjNKlUu">©</a> Molnár István 2018</h3>
+       
+       <img id="leaf" src="https://lh3.googleusercontent.com/1-N8Zyk4e1-_MlyjUrn5Ndzl4wjJyj5qGJ3tbeuvaet1c3ASPcfPqJZC72QM3vhiDoYBLAthN_r7DRJnUyxNhK9vKSJ4H3BLV8n3=w1060-h1145-rw-no">
+       <img id="leafpir" src="https://lh3.googleusercontent.com/DxZ8JEJhwmw5BeiNH--Zn408snw6_K-19fBeC_KOGqe5w7X04jpPlGXxWWXacHsncH9k2-q94UQtBRn1B-wUs1z27TfUfZN6Fm4D=w780-h799-rw-no">
+       <img id="leafzold" src="https://lh3.googleusercontent.com/vzwDczsreb6FN4eLQz_rY56bNPEAvAjST49V9Sy1oLZWa_A5xiquWoIu0Rk82mgt-kuTH2r6CeJIqhr15BdWkCxqcQl8TukaeAJ1=w686-h556-rw-no">
+  </body>
+</html>
